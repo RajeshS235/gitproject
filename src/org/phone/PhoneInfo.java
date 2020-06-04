@@ -20,7 +20,7 @@ public class PhoneInfo {
 		 System.out.println("Enter the first Name");
 		  String firstName = a.nextLine();
 		  byte firstame = a.nextByte();
-		 System.out.println("my first name is "+firstName);
+		 System.out.println(+firstName);
 		 }
 	
 }
