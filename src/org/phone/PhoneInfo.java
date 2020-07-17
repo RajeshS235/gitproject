@@ -7,7 +7,7 @@ public class PhoneInfo {
 		Scanner a = new Scanner(System.in);
 		 System.out.println("Enter the Age");
 		 byte age = a.nextByte();
-		 System.out.println("my age is "+age);
+		 System.out.println("my age is "+ages);
 		 System.out.println("Enter the atm pin");
 		 short atm = a.nextShort();
 		 System.out.println("my atm pin is "+atm);
